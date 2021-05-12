@@ -1,15 +1,15 @@
 [submodule "VMBS-tool-Director"]
 	path = VMBS-tool-Director
-	url = https://github.com/NicholasRasi/VMBS-tool-Director.git
+	url = https://github.com/deib-polimi/VMBS-tool-Director.git
 [submodule "VMBS-tool-Executor"]
 	path = VMBS-tool-Executor
-	url = https://github.com/NicholasRasi/VMBS-tool-Executor.git
+	url = https://github.com/deib-polimi/VMBS-tool-Executor.git
 [submodule "VMBS-tool-Communicator"]
 	path = VMBS-tool-Communicator
-	url = https://github.com/NicholasRasi/VMBS-tool-Communicator
+	url = https://github.com/deib-polimi/VMBS-tool-Communicator
 [submodule "BinDatabase"]
 	path = BinDatabase
 	url = https://github.com/NicholasRasi/BinDatabase
 [submodule "VMBS-tool-Analyzer"]
 	path = VMBS-tool-Analyzer
-	url = https://github.com/NicholasRasi/VMBS-tool-Analyzer
+	url = https://github.com/deib-polimi/VMBS-tool-Analyzer
